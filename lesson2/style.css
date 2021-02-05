@@ -1,0 +1,13 @@
+body {background-color: #badef7;}
+h1 {font-size: 45px;}
+h2 {font-size: 28px;}
+li {font-size: 20px;}
+li {color: #5e4343;}
+p {font-size: 17px;}
+a {color: darkred; text-decoration: none;}
+img {border:2px solid #b8c1d3;
+     margin: auto; display:block; border-radius: 400px;
+     width:950px; height: 500px;}
+.text {border-radius: 10px; background-color: #FFDEAD; border: 2px solid black;}
+.a {background-color: #F0F8FF; border-radius: 100px;width: 400px;margin: auto; display: block;}
+.b {background-color:#DEB887; width: 200px; border-radius: 10px}

@@ -1,0 +1,9 @@
+body {background-color: #5F9EA0;}
+.a {border-radius: 50px; width: 175px; height: 200px;}
+td {padding: 15px;}
+tr.even {background-color: beige;}
+th { font-size: 25 px; background-color: #8FBC8F; padding: 22px; 
+    font-style: italic;}
+td {background-color: burlywood;}
+.b {display: block; margin: auto; border-radius: 400px; width: 500px; height: 275px; border: 2px solid black;}
+.c {border-radius: 20px; background-color: #DEB887; display: block; margin: auto; width: 300px;}
