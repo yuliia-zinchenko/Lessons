@@ -1,0 +1,670 @@
+body{
+    background-color: burlywood;
+}
+.box1 {
+    background-color: darkgray;
+    height: 300px;
+    width: 300px;
+    margin: 2% 1%;
+    transition: all 0.8s;
+    overflow: scroll;
+    flex-direction: column;
+    float: left;
+    flex-wrap: nowrap;
+}
+.box1:hover {
+    background-color: darksalmon;
+    height: 600px;
+}   
+
+.a {
+    background-color: firebrick ;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.a:hover {
+    background-color: mediumorchid;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: -100px;
+    left: -100px;
+}
+.b {
+    background-color: midnightblue ;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.b:hover {
+    background-color: mediumturquoise;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.c {
+    background-color: orangered;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.c:hover {
+    background-color: pink;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.d {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.d:hover {
+    background-color: rosybrown;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.e {
+    background-color: yellowgreen;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.e:hover {
+    background-color: palegreen;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.f {
+    background-color: tomato;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.f:hover {
+    background-color: burlywood;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.g{
+    background-color: forestgreen;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.g:hover {
+    background-color: crimson;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.h{
+    background-color: fuchsia;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.h:hover {
+    background-color: hotpink;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.i{
+    background-color: sienna;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.i:hover {
+    background-color: thistle;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.j{
+    background-color: darkgoldenrod;
+    height: 200px;
+    width: 200px;
+    margin: 15%;
+    transition: all 0.8s;
+}
+.j:hover {
+    background-color: darkseagreen;
+    height: 400px;
+    width: 600px;
+    position: absolute;;
+    top: 50px;
+    left: -100px;
+}
+.box2 {
+    background-color: darkgray;
+    height: 300px;
+    width: 300px;
+    margin: 2% 1%;
+    transition: all 0.8s;
+    overflow: scroll;
+    flex-direction: column;
+    float: left;
+    flex-wrap: nowrap;
+}
+.box2:hover {
+    background-color: darksalmon;
+    height: 600px;
+}   
+.l {
+    margin: 20%;
+}
+.l:focus {
+    outline: none;
+    border: 2px solid red;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px firebrick;
+}
+.k {
+    margin: 20%;
+}
+.k:focus {
+    outline: none;
+    border: 2px dotted DarkCyan;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px DarkSeaGreen;
+}
+.m {
+    margin: 20%;
+}
+.m:focus {
+    outline: none;
+    border: 2px inset Coral;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px MediumOrchid;
+}
+.n {
+    margin: 20%;
+}
+.n:focus {
+    outline: none;
+    border: 2px dashed LimeGreen;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px LightGreen;
+}
+.n {
+    margin: 20%;
+}
+.n:focus {
+    outline: none;
+    border: 2px dashed LimeGreen;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px LightGreen;
+}
+.o {
+    margin: 20%;
+}
+.o:focus {
+    outline: none;
+    border: 2px inset MidnightBlue;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px MediumTurquoise;
+}
+.p {
+    margin: 20%;
+}
+.p:focus {
+    outline: none;
+    border: 2px inset Olive;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px 
+    PaleGreen;
+}
+.q {
+    margin: 20%;
+}
+.q:focus {
+    outline: none;
+    border: 2px dotted Orangered;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px peru;
+}
+.r {
+    margin: 20%;
+}
+.r:focus {
+    outline: none; 
+    border: 2px dashed Violet;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 30px RosyBrown;
+}
+.s {
+    margin: 20%;
+}
+.s:focus {
+    outline: none; 
+    border: 2px inset yellowgreen;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px yellow;
+}
+.t {
+    margin: 20%;
+}
+.t:focus {
+    outline: none; 
+    border: 2px dashed SeaGreen;
+    border-radius: 10px;
+    height: 20px;
+    width: 200px;
+    margin: 20% 15%;
+    box-shadow: 2px 2px 20px SpringGreen;
+}
+.box3 {
+    background-color: darkgray;
+    height: 300px;
+    width: 300px;
+    margin: 2% 1%;
+    transition: all 0.8s;
+    overflow: scroll;
+    flex-direction: column;
+    float: left;
+    flex-wrap: nowrap;
+}
+.box3:hover {
+    background-color: darksalmon;
+    height: 400px;
+} 
+.u {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.u:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.u:link {
+    color: navy;;
+}
+.u:visited {
+    color: SeaGreen;
+}
+.v {
+    text-decoration: Underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.v:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.v:link {
+    color: navy;;
+}
+.v:visited {
+    color: MidnightBlue;
+}
+.w {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.w:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.w:link {
+    color: navy;;
+}
+.w:visited {
+    color: Sienna;
+}
+.x {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.x:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.x:link {
+    color: navy;;
+}
+.x:visited {
+    color: Teal;
+}
+.y {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.y:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.y:link {
+    color: navy;;
+}
+.y:visited {
+    color: DarkSlateGray;
+}
+.z {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.z:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.z:link {
+    color: navy;;
+}
+.z:visited {
+    color: brown;
+}
+.a1 {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.a1:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.a1:link {
+    color: navy;;
+}
+.a1:visited {
+    color: crimson;
+}
+.b1 {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.b1:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.b1:link {
+    color: navy;;
+}
+.b1:visited {
+    color: rgb(47, 230, 220);
+}
+.c1 {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.c1:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.c1:link {
+    color: navy;;
+}
+.c1:visited {
+    color: lightgreen;
+}
+.d1 {
+    text-decoration: underline;
+    color: navy;
+    transition: all 0.5s;
+    font-size: 20px;
+}
+.d1:hover {
+    color: MediumSlateBlue;
+    background-color: NavajoWhite;
+    border-radius: 5px;
+}
+.d1:link {
+    color: navy;;
+}
+.d1:visited {
+    color: lightyellow;
+}
+.box4 {
+    flex-wrap: nowrap;
+    background-color: darkgray;
+    height: 300px;
+    width: 300px;
+    margin: 2% 1%;
+    transition: all 0.8s;
+    overflow: scroll;
+    flex-direction: column;
+    float: left;
+}
+.box4:hover {
+    background-color: darkslategrey;
+    height: 600px;
+}   
+.a2 {
+    height: 125px;
+    width: 200px;
+    background-color: olivedrab;
+    margin: 15%;
+}
+.li1:hover {
+    font-size: 25px;
+    color:indigo;
+    text-decoration: underline;
+}
+.h1:hover {
+    font-size: 25x;
+    color: maroon;
+}
+.b2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightsalmon;
+    margin: 15%;
+}
+.li2:hover {
+    font-size: 25px;
+    color:mediumblue;
+    text-decoration: underline;
+}
+.h2:hover {
+    font-size: 25px;
+    color: mediumorchid;
+}
+.c2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightskyblue;
+    margin: 15%;
+}
+.li3:hover {
+    font-size: 25px;
+    color:olive;
+    text-decoration: underline;
+}
+.h3:hover {
+    font-size: 25px;
+    color: saddlebrown;
+}
+.d2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightpink;
+    margin: 15%;
+}
+.li4:hover {
+    font-size: 25px;
+    color:navy;
+    text-decoration: underline;
+}
+.h4:hover {
+    font-size: 25px;
+    color: red;
+}
+.e2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightskyblue;
+    margin: 15%;
+}
+.li5:hover {
+    font-size: 25px;
+    color:peru;
+    text-decoration: underline;
+}
+.h5:hover {
+    font-size: 25px;
+    color: plum;
+}
+.f2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightcoral;
+    margin: 15%;
+}
+.li6:hover {
+    font-size: 25px;
+    color:blueviolet;
+    text-decoration: underline;
+}
+.h6:hover {
+    font-size: 25px;
+    color: crimson;
+}
+.g2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightsteelblue;
+    margin: 15%;
+}
+.li7:hover {
+    font-size: 25px;
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+.h7:hover {
+    font-size: 25px;
+    color: darkolivegreen;
+}
+.q2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightgreen;
+    margin: 15%;
+}
+.li8:hover {
+    font-size: 25px;
+    color: darkorange;
+    text-decoration: underline;
+}
+.h8:hover {
+    font-size: 25px;
+    color: darkmagenta;
+}
+.i2 {
+    height: 125px;
+    width: 200px;
+    background-color: lightgoldenrodyellow;
+    margin: 15%;
+}
+.li9:hover {
+    font-size: 25px;
+    color: darkslategray;
+    text-decoration: underline;
+}
+.h9:hover {
+    font-size: 25px;
+    color: firebrick;
+}
+.j2 {
+    height: 125px;
+    width: 200px;
+    background-color: goldenrod;
+    margin: 15%;
+}
+.li0:hover {
+    font-size: 25px;
+    color: midnightblue;
+    text-decoration: underline;
+}
+.h0:hover {
+    font-size: 25px;
+    color: lightseagreen;
+}
+
+
+
