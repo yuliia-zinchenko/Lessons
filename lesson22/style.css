@@ -1,0 +1,45 @@
+div {
+    width: 100%;
+    background-color: silver;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+div ul {
+    list-style: none;
+    background-color: black;
+    position: relative;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    transition: all 0.3s;
+}
+div > ul > li {
+    float: left;
+}
+div ul::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+div ul li a {
+    display: inline-block;
+    padding: 10px 50px;
+    width: 125px;
+    color: white;
+    text-decoration: none;
+}
+div ul li:hover {
+    background-color: #950740;
+}
+div ul ul {
+    display: none;
+    position: absolute;
+}
+div li:hover > ul {
+    display: block;
+}
