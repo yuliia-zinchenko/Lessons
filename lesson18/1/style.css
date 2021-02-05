@@ -1,0 +1,99 @@
+.head {
+    background-color: goldenrod;
+    height: 150px;
+    width: 700px;
+    overflow: scroll;
+}
+.content {
+    background-color: darkslategray;
+    height: 150px;
+    width: 700px;
+}
+.footer {
+    background-color: forestgreen;
+    height: 150px;
+    width: 700px;
+}
+.r {
+    background-color: hotpink;
+    height: 150px;
+    margin-top: 4%;
+    width: 10%;
+    float: left;
+}
+.t {
+    background-color: indigo;
+    height: 150px;
+    width: 10%;
+    float: left;
+    margin-top: 4%;
+}
+.y {
+    background-color: royalblue;
+    height: 150px;
+    width: 10%;
+    float: left;
+    margin-top: 4%;
+}
+.q:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.w {
+    background-color: lightgreen;
+    height: 150px;
+    width: 30%;
+}
+.e:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.u {
+    background-color: lightskyblue;
+    height: 150px;
+    width: 15%;
+    float: left;
+}
+.i {
+   background-color: olive;
+   height: 150px;
+   width: 15%;
+   float: left;
+}
+.d {
+    background-color: palegoldenrod;
+    height: 300px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 50%;
+    justify-content: space-around;
+    display: flex;
+}
+.d:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.k {
+    background-color: peru;
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-top: 5%;
+}
+.l {
+    background-color: purple;
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-top: 5%;
+}
+.m {
+    background-color: seagreen;
+    height: 200px;
+    width: 20%;
+    float: left;
+    margin-top: 5%;
+}

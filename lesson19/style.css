@@ -1,0 +1,69 @@
+.fab {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    font-size: 150px;
+    border-radius: 40px;
+    margin-top: 10%;
+    margin-left: 40%;
+    position: relative;
+}
+.a {
+    border: 1px solid dimgray;
+    height: 300px;
+    width: 400px;
+    margin-top: 1%;
+    margin-left: 60%;
+    background-color: snow;
+    position: relative;
+}
+.s {
+    margin-top: 5%;
+    margin-left: 13%;
+    border: 1px solid lightgray;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    color:gray;
+    padding-left: 2%;
+    background-color: white;
+}
+.d {
+    margin-top: 5%;
+    margin-left: 13%;
+    border: 1px solid lightgray;
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    color:gray;
+    padding-left: 2%;
+    background-color: white;
+}
+.s:focus {
+    border: 1px solid black;
+
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+.d:focus {
+    border: 1px solid black;
+
+    border: 1px solid black;
+    background-color: whitesmoke;
+}
+.f {
+    background-color: dodgerblue;
+    height: 35px;
+    width: 300px;
+    border: 1px solid dodgerblue;
+    border-radius: 2px;
+    margin-top: 5%;
+    margin-left: 14%;
+    color: white;
+    font-weight: bold;
+}
+img {
+    height: 60px;
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 25%;
+}

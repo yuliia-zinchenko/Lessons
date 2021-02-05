@@ -1,0 +1,57 @@
+.body {
+    width: 150px;
+    height: 180px;
+    background-color: gold;
+    margin-top: 15%;
+    margin-left: 40%;
+    border-radius: 50% 60% 7% 20%;
+    position: relative;
+}
+.rhand {
+    width: 50px;
+    height: 80px;
+    background-color:rgb(226, 192, 0);
+    margin-top: -8%;
+    margin-left: 49%;
+    z-index: -1;
+    border-radius: 150% 0% 130% 10%;
+    position: absolute;
+}
+.lhand {
+    width: 100px;
+    height: 80px;
+    background-color: rgb(226, 192, 0);
+    margin-top: -7%;
+    margin-left: 37%;
+    z-index: -1;
+    border-radius: 0% 130% 0% 100%;
+    position: absolute;
+}
+.mo1 {
+    height: 0px;
+    margin-top: 25%;
+    margin-left:65%;
+    border-top: 10px solid transparent;
+	border-left: 30px solid rgb(238, 62, 62);
+    border-bottom: 5px solid transparent;
+    rotate: -30deg;
+    position: absolute;
+}
+.mo2 {
+    height: 0px;
+    margin-top: 35%;
+    margin-left: 65%;
+    border-top: 10px solid transparent;
+	border-left: 30px solid rgb(238, 62, 62);
+    border-bottom: 5px solid transparent;
+    rotate: 20deg;
+    position: absolute;
+}
+.a {
+    height: 10px;
+    width: 8px;
+    margin-top: 35%;
+    margin-left: 55%;
+    position: absolute;
+    background-color: rgb(238, 62, 62);
+}

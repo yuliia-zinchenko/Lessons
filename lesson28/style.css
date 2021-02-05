@@ -1,0 +1,29 @@
+.bl {
+    background-color: blue;
+    height: 213px;
+    width: 1170px;
+    margin-left: 54px;
+    margin-top: 20px;
+}
+
+.red {
+    background-color: red;
+    width: 202px;
+    height: 425px;
+    margin-top: 15px;
+    margin-left: 53px;
+    float: left;
+}
+
+.gre {
+    background-color: green;
+    height: 425px;
+    width: 948px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 21px;
+}
+
+.kk {
+    width: 202px;
+}
